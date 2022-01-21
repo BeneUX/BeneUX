@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeneUX
 - 👀 I’m interested in Webtechnologies
-- 🌱 I’m currently learning PHP, JS
+- 🌱 I’m currently learning Node.js, React, Microfrontends
 - 💞️ I’m looking to collaborate on intersting projects
 - 📫 How to reach me ...
 
