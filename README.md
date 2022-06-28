@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeneUX
-- 👀 I’m interested in Webtechnologies
-- 🌱 I’m currently learning GitOps, Java Spring Boot, Kubernetes, ArgoCD
+- 👀 I’m interested in Webtechnologies, Infrastructure and Artifical Intelligence
+- 🌱 I’m currently learning GitOps, Java Spring Boot, Kubernetes, ArgoCD, Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on intersting projects
 - 📫 How to reach me ...
 
