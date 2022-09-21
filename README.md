@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Informatics Student
 ----------------------------
 
-I am currently doing my Master's in Business Information and work as a student trainee at Sopra Steria.
+I am currently doing my Master in Business Information and work as a student trainee at Sopra Steria.
 
 * 🌍  I'm based in Frankfurt, Germany
 * 🖥️  See my portfolio at [coming soon](http://www.coming-soon.com)
