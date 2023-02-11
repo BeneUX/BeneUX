@@ -8,7 +8,7 @@ I am currently doing my Master in Business Information and work as a student tra
 
 * 🌍  I'm based in Frankfurt, Germany
 * 🖥️  See my portfolio at [coming soon](http://www.coming-soon.com)
-* 🧠  I'm learning React, Gorm for Go and Data Analytics furthermore i am interested in artificial intelligence
+* 🧠  I'm learning React, TypeScript and Data Analytics furthermore i am interested in artificial intelligence
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/BeneUX" target="_blank" rel="noreferrer"><img
